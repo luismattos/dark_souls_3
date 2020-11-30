@@ -1,3 +1,5 @@
+*[fonte](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet)*
+
 # Dark Souls 3 Cheat Sheet
 
 To view the cheat sheet [click here](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/).
