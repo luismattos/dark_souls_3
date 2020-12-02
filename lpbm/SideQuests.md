@@ -1,5 +1,3 @@
-
-
 # Dark Soul 3 - All NPC Quests in one Play
 [fonte](https://www.youtube.com/watch?v=q6iilFQefYc&ab_channel=xTGE)
 
@@ -71,9 +69,53 @@
 **Location:** Undead Settlement
 **Action:** Talk to Eygon (he becomes summonable)
 
-**NPC:** 
-**Location:**
-**Action:**
+**NPC:** Siegward
+**Location:** Undead Settlement
+**Action:** Talk to Siegward after he gets off the lift
+
+**NPC:** Siegward
+**Location:** Undead Settlement
+**Action:** Step On and off the lift to bring the one that goes up down
+
+**NPC:** Siegward
+**Location:** Undead Settlement
+**Action:** Make Peace with the Giant atop the Tower or kill him
+
+**NPC:** Siegward
+**Location:** Undead Settlement
+**Action:** roll off the lift half way down & talk to Siegward
+
+**NPC:** Siegward
+**Location:** Undead Settlement
+**Action:** Kill the Demon with Siegward
+
+**NPC:** Siegward
+**Location:** Undead Settlement
+**Action:** Talk to Siegward until he falls asleep
+
+**NPC:** Leonhard
+**Location:** Undead Settlement
+**Action:** Collect the Pale Tonghe to make Leonhard Spawn at Firelink
+
+**NPC:** Irina & Eygon
+**Location:** Road of Sacrifice
+**Action:** Collect the Divine Braille Tome
+
+**NPC:** Anri
+**Location:** Road of Sacrifice
+**Action:** Talk to Anri and Horace at the Halfway Point Bonfire
+
+**NPC:** Harkwood
+**Location:** Firelink Shrine
+**Action:** Talk to Harkwood after killing the Greatwood
+
+**NPC:** Sirris
+**Location:** Firelink Shrine
+**Action:** Talk to Sirris at Firelink Shrine after talking to Anri
+
+**NPC:** Yuria
+**Location:** Firelink Shrine
+**Action:** Talk to Yura who has now replaced a dead Yoel
 
 **NPC:**
 **Location:**
@@ -182,4 +224,22 @@
 **NPC:**
 **Location:**
 **Action:**
+
+**NPC:**
+**Location:**
+**Action:**
+
+**NPC:**
+**Location:**
+**Action:**
+
+**NPC:**
+**Location:**
+**Action:**
+
+**NPC:**
+**Location:**
+**Action:**
+
+
 
