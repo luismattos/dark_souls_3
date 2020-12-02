@@ -1,5 +1,5 @@
 # Dark Soul 3 - All NPC Quests in one Play
-[fonte 1/3](https://www.youtube.com/watch?v=q6iilFQefYc&ab_channel=xTGE) [fonte 2/3](https://www.youtube.com/watch?v=Fw8eDxtuudo&ab_channel=xTGE) [fonte 3/3](https://www.youtube.com/watch?v=yTOnKOhgc54&ab_channel=xTGE)
+[ [fonte 1/3](https://www.youtube.com/watch?v=q6iilFQefYc&ab_channel=xTGE) ] [ [fonte 2/3](https://www.youtube.com/watch?v=Fw8eDxtuudo&ab_channel=xTGE) ] [ [fonte 3/3](https://www.youtube.com/watch?v=yTOnKOhgc54&ab_channel=xTGE) ]
 
 | NPC | LOCATION | ACTION | ROUTE |
 | --- | -------- | ------ | --- |
