@@ -49,7 +49,24 @@
 | Patches | Firelink Shrine | Purchase the Tower Key from the Shrine Merchant for 20k souls |
 | Patches | Firelink Shrine | Fall for Patches trap in the Tower outside Firelink Shrine. Scape the trap and confront him. Don't forgive him. |
 | Siegward | Firelink Shrine | Purchase Siegward Armor Set from Patches for 15k souls |
-| Siegward | Cathedral of the Deep | Return Siegwards Armor to him |
+| Siegward | Cathedral of the Deep | Return Siegwards Armor Set to him |
+| Andre | Farron Keep | Collect the Sage Coal |
+| Orbeck | Farron Keep | Find the Sage Scroll |
+| Sirris | Farron Keep | DreamChaser's Ashes |
+| Sirris | Firelink Shrine | Give the Ashes to the Shrine Handmaid |
+| Orbeck | Firelink Shrine | Give Orbeck the scrolls (Not doing so will make him leave for good) |
+| Sirris | Firelink Shrine | Reload the area & talk to Sirris |
+| Anri | Catacombs of Carthus | Talk to Anri in The Catacombs |
+| Cornyx | Catacombs of Carthus | Find the Carthus Tome |
+| Anri | Smouldering Lake | Knock down the bridge, find and kill Hushed |
+| Harkwood | Firelink Shrine | Talk to Harkwood one last time |
+| Irina & Eygon | Firelink Shrine | Talk to Eygon |
+| Cornyx | Smouldering Lake | Summon Great Swamp Cuculus & kill the Old Demon King Boss together |
+| Karla | Smouldering Lake | Find the Quelana Tome |
+| Cornyx | Smouldering Lake | Find the Izalith Tome |
+| Anri | Catacombs of Carthus | Return to Anri and tell her/him of Horace's location |
+| Karla | Lord Wolnir Boss Arena | Find the Grave Warden Tome |
 ||||
-||||
-||||
+https://www.youtube.com/watch?v=Fw8eDxtuudo&ab_channel=xTGE
+17:30
+
