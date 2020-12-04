@@ -1,7 +1,7 @@
 # Dark Soul 3 - All NPC Quests in one Play
 [ [fonte 1/3](https://www.youtube.com/watch?v=q6iilFQefYc&ab_channel=xTGE) ] [ [fonte 2/3](https://www.youtube.com/watch?v=Fw8eDxtuudo&ab_channel=xTGE) ] [ [fonte 3/3](https://www.youtube.com/watch?v=yTOnKOhgc54&ab_channel=xTGE) ]
 
-| NPC | LOCATION | ACTION | ROUTE |
+| NPC | LOCATION | ACTION | Requisites / Consequences |
 | --- | -------- | ------ | --- |
 | Harkwood | Firelink Shrine | Talk to Harkwood Twice When You Reach Firelink Shrine |
 | Leonhard | High Wall of Lothric | Light the *Tower On The High Wall Bonfire* to make Leonhard appear at The Shrine |
@@ -66,7 +66,40 @@
 | Cornyx | Smouldering Lake | Find the Izalith Tome |
 | Anri | Catacombs of Carthus | Return to Anri and tell her/him of Horace's location |
 | Karla | Lord Wolnir Boss Arena | Find the Grave Warden Tome |
+| Sirris | Irithyll of the Boreal Valley | Light both the Bonfires on either side of the Bridge |
+| Sirris | Irithyll of the Boreal Valley | Get summoned into Sirris World & help her kill Creighton |
+| Sirris | Firelink Shrine | Talk to Sirris |
+| Harkwood | Firelink Shrine | Collect Harkwoods unique shield at by the grave |
+| Greirat | Firelink Shrine | Send Greirat to Search Irithyll | Greirat will die if you didnt follow Siegwards Questline |
+| Anri | Irithyll of the Boreal Valley | Talk to Anri |
+| Anri | | Route 1: Kill the Assassin ; Route 2: Dont Kill the Assassin | Route 1: Anri will find & kill Aldrich ; Route 2: Anri will be killed &  you will marry her/him |
+| Siegward | Irithyll of The Boreal Valley | Talk to Siegward in the Irithyll Kitchen | Greirat will return after killing Pontiff Sulyvahn as long as siegward was at Irithyll & you didnt tell Patches where he was |
+| Greirat | Firelink Shrine | Talk to Greirat |
+| Siegward | Irithyll Dungeon | Talk to Siegward who is locked in a cell |
+| Siegward | Irithyll Dungeon | Get the Old Key |
+| Harkwood | Irithyll Dungeon | Find the Dragon Stone & Start the Path of the Dragon Quest|
+| Andre | Irithyll Dungeon | Find the Profaned Coal |
+| Orbeck | Profaned Capital | Find the Hidden Mansion & Logans Scroll |
+| Siegward | Profaned Capital | Jump through the hole in the wall & free Siegward |
+| Karla | Irithyll Dungeon | Find the Jailers Key Ring |
+| Karla | Irithyll Dungeon | Free Karla from her cell |
+| Siegward | Profaned Capital | Kill Lord of Cinder, Yhor alongside Siegward |
+| Siegward | Profaned Capital | Talk to Siegward one last time after killing Yhorm. Rest at the bonfire & take the Siegward Gear from his body |
+| Anri | Irithyll of the Boreal Valley | Route 1: Marry Anri ; Route 2: Help Anri kill Aldrich  | Route 1: if you choose not to kill the assassin ; Route 2: if you killed the assassin |
+| Andre | Anor Londo | Find the Giants Coal |
+| Andre | Firelink Shrine | Give Andre the Coals |
+| Anri | Firelink Shrine | Talk to Ludleth for Anri's sword |
+| Anri | | kill Anri where you killed Horace |
+| Cornyx | Undead Settlement (Eclipse) | Return to Cornyx's Cell and collect his A Students Whip & Outfit |
+| Sirris | Undead Settlement (Eclipse) | Return to the Greatwood boss arena & answer Sirris Summon Call |
+| Sirris | Firelink Shrine | Talk to Sirris one last time and accept her Knighthood Oath | Return to the Greatwood boss arena & take Hodricks Armor Set |
+| Greirat | Firelink Shrine | Send Greirat to loot Lothric Castle after killing the Dancer Of The Boral Valley | Greirat will die
+| Firekeeper | Untended Graves | Find the Firekeeper Eyes where Irina would usually be | Giving the Firekeepers Eyes to the Firekeeper will allow you to get two of the four endings to unlock |
+| Firekeeper | Firelink Shrine | Ride the Elevator to the top of the tower & ger the Firekeeper Soul |
+| Firekeeper | Firelink Shrine | Give the Firekeeper Soul to the Firekeeper | She is allowd to heal the Dark Sigil completly |
+| Irina & Eygon | Lothric Castle | Find the Braille Divine Tome |
 ||||
-https://www.youtube.com/watch?v=Fw8eDxtuudo&ab_channel=xTGE
-17:30
-
+||||
+||||
+||||
+||||
