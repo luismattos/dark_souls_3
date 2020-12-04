@@ -2,7 +2,9 @@
 [ [fonte 1/3](https://www.youtube.com/watch?v=q6iilFQefYc&ab_channel=xTGE) ] [ [fonte 2/3](https://www.youtube.com/watch?v=Fw8eDxtuudo&ab_channel=xTGE) ] [ [fonte 3/3](https://www.youtube.com/watch?v=yTOnKOhgc54&ab_channel=xTGE) ]
 
 ID - xxnnn
+
 xx - tipo da atividade
+
 nnn - numero da atividade
 
 | Tipo de Atividade | ID |
