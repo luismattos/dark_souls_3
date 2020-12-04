@@ -107,21 +107,12 @@
 | Irina | Firelink Shrine | Talk to Irina. Kill her? | If you choose the *Sad ending* |
 | Greirat | Grand Archives | Find Greirat dead & Collect his ashes |
 | Orbeck | Grand Archives | After killing the Lothric Princes you will find Orbeck dead. Collect his ashes |
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+| Sirris | Firelink Shrine | Sirris will now be dead & you can collect her items by her Grandfathers grave |
+| Leonhard | Cathedral of the Deep | Find & Give Rosaria a Pale Tongue |
+| Leonhard | Cathedral of the Deep | Reload the area & Talk to Leonhard |
+| Leonhard | Cathedral of the Deep | Reaload the area & Collect the Black Eye Orb off Rosaria's Body |
+| Leonhard | Anor Londo | Use the Black Eye Orb in the room behind the Aldrich boss arena & Kill Leonhard | *Route 1:* Give back Rosaria's soul to her ; *Route 2:* Trade the Rosaria's soul with Ludleth | 
+| Harkwood | Archdragon Peak | Kill the Ancient Wyvenr boss to get the second Dragon Stone |
+| Harkwood | Archdragon Peak | Use the Path Of The Gragon gesture at the alter for the third Dragon Stone |
+| Harkwood | Firelink Shrine | Return to Andre & Accept Harkwoods Swordglass |
+| Harkwood | Abyss Watchers boss room | Kill Harkwood |
