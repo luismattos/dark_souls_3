@@ -48,7 +48,7 @@ nnn - numero da atividade
 | SQ033 | Cornyx | Cruxifixion Woods | Find the Great Swamp Tome |
 | SQ034 | Orbeck | Cruxifixion Woods | Talk to Orbeck & Recruit him (need 10 intelligence) |
 | SQ035 | Leonhard | High Wall of Lothric | Use the Lift Key & Kill the Dark Wraith |
-| SQ036 | Yuria | Firelink Shrine | Talk to Yuria & Kill  Orbeck | ~~Orbeck~~ |
+| SQ036 | Yuria | Firelink Shrine | *Route 1:* Talk to Yuria, Kill  Orbeck & Give Orbeck's Soul to Yuria ; *Route 2:* Talk to Yuria and dont kill Orbeck |
 | SQ037 | Irina & Eygon | Cathedral of the Deep | Collect the Deep Braille Tome |
 | SQ038 | Siegward & Patches | Cathedral of the Deep| Open the main front door may prevent Siegward & Patches from spawning |
 | SQ039 | Anri | Firelink Shrine | Talk to Anri after killing the Deacons of the Deep |
