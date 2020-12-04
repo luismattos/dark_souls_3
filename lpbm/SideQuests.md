@@ -98,6 +98,28 @@
 | Firekeeper | Firelink Shrine | Ride the Elevator to the top of the tower & ger the Firekeeper Soul |
 | Firekeeper | Firelink Shrine | Give the Firekeeper Soul to the Firekeeper | She is allowd to heal the Dark Sigil completly |
 | Irina & Eygon | Lothric Castle | Find the Braille Divine Tome |
+| Orbeck | Grand Archives | Kill the Crystal Sage & Get the Crystal Scroll |
+| Orbeck | Firelink Shrine | Give the Last Two Scrolls to Orbeck | Purchase all Orbecks Spells for 104.5k souls |
+| Orbeck | Firelink Shrine | Talk to Orbeck until you get repeating dialoge |
+| Irina | Firelink Shrine | *Sad ending:* Give her the Londor & Deep Tome ; *Good Ending:* Give her the Carim & Lothric Divine Tomes | *Sad ending:*  Purchase any Hex from her. ; *Good Ending:* Purchase all her miracles for 39k souls. Irina will become a firekeeper. |
+| Eygon | Irina's Cell | *Route 1:*  Eygon will kidnap her and fight with you. You can take his weapon and shield from his body. You can purchase his armor from the Shrine Handmaid ; *Route 2:* Will be dead. You can take his weapon and Shield from his body. You can purchase his armor from the Shrine Handmaid | *Route 1:* If you choose the *Sad ending* to Irina. ; *Route 2:* If you choose the *Good ending* to Irina |
+| Karla | Firelink Shrine | Give the Deep & Londor Tomes alond the Grave Warden & Quelana Tomes | If you choose the *Good ending* to Irina. |
+| Irina | Firelink Shrine | Talk to Irina. Kill her? | If you choose the *Sad ending* |
+| Greirat | Grand Archives | Find Greirat dead & Collect his ashes |
+| Orbeck | Grand Archives | After killing the Lothric Princes you will find Orbeck dead. Collect his ashes |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 ||||
 ||||
 ||||
