@@ -54,7 +54,7 @@ nnn - numero da atividade
 | SQ037 | Irina & Eygon | Cathedral of the Deep | Collect the Deep Braille Tome |
 | SQ038 | Siegward & Patches | Cathedral of the Deep |  | Open the main front door may prevent Siegward & Patches from spawning |
 | IP    | Longfinger Kirk | Cathedral of the Deep | Kill him near the bottom lever on the ground floor between the two giants. | Does not invade if you have already killed Deacons of the Deep |
-| BF    | Deacons of the Deep | Cathedral of the Deep | kill the Deacons of the Deep |
+| BF    | Deacons of the Deep | Cathedral of the Deep | kill the Deacons of the Deep | Anri, Horace and Sirris can be summoned to help in this battle |
 | SQ039 | Anri | Firelink Shrine | Talk to Anri after killing the Deacons of the Deep |
 | SQ040 | Harkwood | Firelink Shrine | Talk to Harkwood |
 | SQ041 | Leonhard | Firelink Shrine | Talk to Leonhard after killing the Dark Wraith |
