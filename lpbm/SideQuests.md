@@ -52,7 +52,7 @@ nnn - numero da atividade
 | SQ035 | Leonhard | High Wall of Lothric | Use the Lift Key & Kill the Dark Wraith |
 | SQ036 | Yuria | Firelink Shrine | *Route 1:* Talk to Yuria, Kill  Orbeck & Give Orbeck's Soul to Yuria ; *Route 2:* Talk to Yuria and dont kill Orbeck |
 | SQ037 | Irina & Eygon | Cathedral of the Deep | Collect the Deep Braille Tome |
-| SQ038 | Siegward & Patches | Cathedral of the Deep | Open all the big doors, except the one on the giants level | Open the main front door, at the giants lvl, may prevent Siegward & Patches from spawning |
+| SQ038 | Siegward & Patches | Cathedral of the Deep |  | Open the main door may prevent Siegward & Patches from spawning |
 | IP    | Longfinger Kirk | Cathedral of the Deep | Kill him near the bottom lever on the ground floor between the two giants. | Does not invade if you have already killed Deacons of the Deep |
 | BF    | Deacons of the Deep | Cathedral of the Deep | kill the Deacons of the Deep | Anri, Horace and Sirris can be summoned to help in this battle |
 | SQ039 | Anri | Firelink Shrine | Talk to Anri after killing the Deacons of the Deep |
