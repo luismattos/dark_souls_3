@@ -70,6 +70,7 @@ nnn - numero da atividade
 | SQ051 | Sirris | Firelink Shrine | Give the Ashes to the Shrine Handmaid |
 | SQ052 | Orbeck | Firelink Shrine | Give Orbeck the scrolls (Not doing so will make him leave for good) |
 | SQ053 | Sirris | Firelink Shrine | Reload the area & talk to Sirris |
+| BF | Abyss Watchers | Farron Keep | Kill the Abiss Watchers | You can summon Sirris, Londor Pale Shade, Black Hand Gotthard & Yellowfinger Heysel |
 | SQ054 | Anri | Catacombs of Carthus | Talk to Anri in The Catacombs |
 | SQ055 | Cornyx | Catacombs of Carthus | Find the Carthus Tome |
 | SQ056 | Anri | Smouldering Lake | Knock down the bridge, find and kill Hushed |
